@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{C0A1CA75-C98D-4A89-8764-0F51F88DD13F}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T21:26:25.1452486Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Edit",
+    "itemPath": "/sitecore/content/Applications/WebEdit/Edit Frame Buttons/Carousel Items/Edit",
+    "commandType": "Item",
+    "template": "Field Editor Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
