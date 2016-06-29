@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{93B42F5F-17A9-441B-AB6D-444F714EF384}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:25.5992746Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LS User",
+    "itemPath": "/sitecore/system/Settings/Security/Profiles/LS User",
+    "commandType": "Item",
+    "template": "LS User",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
