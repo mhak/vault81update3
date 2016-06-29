@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{E2D2866C-20A9-477F-8753-1E7864FF2AC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:25.4932685Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Presentation",
+    "itemPath": "/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/Page Editor/Site Settings/Presentation",
+    "commandType": "Item",
+    "template": "Small Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
