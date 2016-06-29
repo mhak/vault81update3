@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{FA3F661D-8851-4CCF-AB79-46036FC89F9D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:24.3892053Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Launch Sitecore",
+    "itemPath": "/sitecore/templates/Launch Sitecore",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
