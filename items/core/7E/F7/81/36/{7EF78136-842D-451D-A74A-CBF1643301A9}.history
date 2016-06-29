@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{7EF78136-842D-451D-A74A-CBF1643301A9}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T21:26:24.9202357Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Call to Action Link To",
+    "itemPath": "/sitecore/content/Applications/WebEdit/Custom Experience Buttons/Call to Action Link To",
+    "commandType": "Item",
+    "template": "Field Editor Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
