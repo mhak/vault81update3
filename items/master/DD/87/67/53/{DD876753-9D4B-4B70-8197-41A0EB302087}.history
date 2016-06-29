@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{DD876753-9D4B-4B70-8197-41A0EB302087}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:25.9492946Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image",
+    "itemPath": "/sitecore/templates/Global/Content Templates/Carousel Item/Carousel Item/Image",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
