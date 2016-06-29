@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{3B7F7C5F-917D-45E8-9A2B-FCE9B47F37F4}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T21:26:24.6772218Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "UpdateItemNames",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Launch Sitecore/UpdateItemNames",
+    "commandType": "Item",
+    "template": "Large Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
