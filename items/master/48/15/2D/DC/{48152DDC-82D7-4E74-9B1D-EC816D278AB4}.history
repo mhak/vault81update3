@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{48152DDC-82D7-4E74-9B1D-EC816D278AB4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:26.0222987Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Link Text",
+    "itemPath": "/sitecore/templates/Global/Content Templates/Carousel Item/Carousel Item/Link Text",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
