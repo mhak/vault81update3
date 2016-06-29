@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{FF9867EE-0B7F-4E0E-B604-6329A923A4B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:26.0973030Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Carousel Set",
+    "itemPath": "/sitecore/templates/Global/Content Templates/Carousel Set",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
