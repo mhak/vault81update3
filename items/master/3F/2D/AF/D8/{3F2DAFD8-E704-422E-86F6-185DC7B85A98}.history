@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{3F2DAFD8-E704-422E-86F6-185DC7B85A98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:26.5743303Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Color Value",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Color/Settings/Color Value",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
