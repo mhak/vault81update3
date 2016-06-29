@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{C947908A-02FB-4208-B908-06F72D5E759D}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T21:26:24.7722272Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Launch Sitecore",
+    "itemPath": "/sitecore/content/Applications/Security/User Manager/Ribbon/Home/Launch Sitecore",
+    "commandType": "Item",
+    "template": "Chunk",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
