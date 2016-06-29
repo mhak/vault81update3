@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{F9C6AE2D-3057-4083-83BA-B71FE0FFD38A}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T21:26:24.5612152Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Version In Current Language",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Gutters/No Version In Current Language",
+    "commandType": "Item",
+    "template": "Gutter Renderer",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
