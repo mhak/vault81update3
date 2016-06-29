@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{0C0B0EFC-1C50-4545-BD26-C88D62D04F97}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:24.5262132Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Favorites",
+    "itemPath": "/sitecore/templates/Launch Sitecore/LS User/Data/Favorites",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
