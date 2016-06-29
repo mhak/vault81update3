@@ -312,15 +312,15 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: 0e43d05b-06bd-476d-9c95-0f044a2fca92
+revision: cfa29ea2-2e14-4a9f-8c00-af0d6d1c98e1
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
 name: Title
 key: title
-content-length: 30
+content-length: 28
 
-Sitecore Experience Platform 1
+Sitecore Experience Platform
 ----field----
 field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
 name: Text
@@ -391,14 +391,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0e43d05b-06bd-476d-9c95-0f044a2fca92
+cfa29ea2-2e14-4a9f-8c00-af0d6d1c98e1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160629T202506Z
+20160629T202731Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
