@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{A36D11AB-A9B0-4CDB-A890-8C4E6B13B678}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T21:26:25.3262589Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Common",
+    "itemPath": "/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/Page Editor/Additional Fields/Common",
+    "commandType": "Item",
+    "template": "Large Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
