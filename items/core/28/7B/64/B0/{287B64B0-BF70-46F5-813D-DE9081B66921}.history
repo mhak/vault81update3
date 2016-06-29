@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{287B64B0-BF70-46F5-813D-DE9081B66921}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:24.4302077Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LS User",
+    "itemPath": "/sitecore/templates/Launch Sitecore/LS User",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
