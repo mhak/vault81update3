@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{2BBCEAD6-0436-493D-8876-53D3DD9A90C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:26.5113267Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Settings Templates",
+    "itemPath": "/sitecore/templates/Global/Settings Templates",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
