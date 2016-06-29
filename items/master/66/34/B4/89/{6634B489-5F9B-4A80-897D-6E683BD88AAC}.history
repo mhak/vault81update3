@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6634B489-5F9B-4A80-897D-6E683BD88AAC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:26.4673242Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Text",
+    "itemPath": "/sitecore/templates/Global/Content Templates/Text Widget/Text Widget/Text",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
