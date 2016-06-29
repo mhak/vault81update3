@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{DD45E0B2-E160-4291-8F50-1EBBC39AB445}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:26.2153098Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Link Text",
+    "itemPath": "/sitecore/templates/Global/Content Templates/Promo Spot/Promo Spot/Link Text",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
