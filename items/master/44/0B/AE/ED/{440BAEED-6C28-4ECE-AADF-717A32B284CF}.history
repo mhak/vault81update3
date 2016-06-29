@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{440BAEED-6C28-4ECE-AADF-717A32B284CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:25.7282819Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Microsite",
+    "itemPath": "/sitecore/templates/Branches/Launch Sitecore/Microsite",
+    "commandType": "Item",
+    "template": "Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
