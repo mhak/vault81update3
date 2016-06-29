@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A6A98102-526C-4960-B5E2-204760190E05}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:26.2403112Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Link To",
+    "itemPath": "/sitecore/templates/Global/Content Templates/Promo Spot/Promo Spot/Link To",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
