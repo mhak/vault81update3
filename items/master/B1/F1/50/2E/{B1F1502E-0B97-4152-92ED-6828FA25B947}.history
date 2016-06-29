@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{B1F1502E-0B97-4152-92ED-6828FA25B947}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:26.0723016Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Use Dark Text",
+    "itemPath": "/sitecore/templates/Global/Content Templates/Carousel Item/Carousel Item/Use Dark Text",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
