@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{90035416-5271-4910-8291-62A06FB06DE4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:25.4722673Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Configuration",
+    "itemPath": "/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/Page Editor/Site Settings/Configuration",
+    "commandType": "Item",
+    "template": "Small Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
