@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{E96DFA10-FA94-4B0F-9612-27FC15439797}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:26.2653126Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Text",
+    "itemPath": "/sitecore/templates/Global/Content Templates/Promo Spot/Promo Spot/Text",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
