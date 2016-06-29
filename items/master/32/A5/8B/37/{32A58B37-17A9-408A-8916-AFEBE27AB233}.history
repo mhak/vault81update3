@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{32A58B37-17A9-408A-8916-AFEBE27AB233}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:25.6652783Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Carousel Set",
+    "itemPath": "/sitecore/templates/Branches/Launch Sitecore/Carousel Set",
+    "commandType": "Item",
+    "template": "Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
