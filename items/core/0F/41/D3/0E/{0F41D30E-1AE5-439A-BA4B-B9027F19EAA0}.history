@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{0F41D30E-1AE5-439A-BA4B-B9027F19EAA0}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T21:26:24.9642382Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Link To",
+    "itemPath": "/sitecore/content/Applications/WebEdit/Custom Experience Buttons/Link To",
+    "commandType": "Item",
+    "template": "Field Editor Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
