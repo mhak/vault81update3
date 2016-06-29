@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{1948E00B-2A66-41D4-8F46-2A9F7D545DB1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:25.8242874Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Global",
+    "itemPath": "/sitecore/templates/Global",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
