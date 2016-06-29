@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{1A2EBD22-A8A7-477C-B16B-1F8ECF4FB451}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:26.1843080Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Promo Spot",
+    "itemPath": "/sitecore/templates/Global/Content Templates/Promo Spot/Promo Spot",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
