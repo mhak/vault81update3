@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C8EBC77D-682A-4120-80F9-8589DD95DF55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:26.5563293Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Settings",
+    "itemPath": "/sitecore/templates/Global/Settings Templates/Color/Settings",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
