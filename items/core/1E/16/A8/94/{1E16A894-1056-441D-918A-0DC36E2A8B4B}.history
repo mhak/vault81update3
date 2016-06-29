@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{1E16A894-1056-441D-918A-0DC36E2A8B4B}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T21:26:25.3742617Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Menu",
+    "itemPath": "/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/Page Editor/Additional Fields/Menu",
+    "commandType": "Item",
+    "template": "Large Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
