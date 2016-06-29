@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{E71A0F76-9B57-4E1A-AEA5-1C02C9FB1E72}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:25.8452886Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Templates",
+    "itemPath": "/sitecore/templates/Global/Content Templates",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
