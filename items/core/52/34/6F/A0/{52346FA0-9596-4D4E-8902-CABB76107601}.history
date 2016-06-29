@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{52346FA0-9596-4D4E-8902-CABB76107601}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T21:26:24.8282305Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Create Users",
+    "itemPath": "/sitecore/content/Applications/Security/User Manager/Ribbon/Home/Launch Sitecore/Create Users",
+    "commandType": "Item",
+    "template": "Large Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
