@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{D7F983CA-BE35-4522-8CBA-C75D185FCC20}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T21:26:25.4242645Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Settings",
+    "itemPath": "/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/Page Editor/Site Settings",
+    "commandType": "Item",
+    "template": "Chunk",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
