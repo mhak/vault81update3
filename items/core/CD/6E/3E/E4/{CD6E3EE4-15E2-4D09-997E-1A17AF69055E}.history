@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{CD6E3EE4-15E2-4D09-997E-1A17AF69055E}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T21:26:25.0222415Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Prerequisite Articles",
+    "itemPath": "/sitecore/content/Applications/WebEdit/Custom Experience Buttons/Prerequisite Articles",
+    "commandType": "Item",
+    "template": "Field Editor Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
