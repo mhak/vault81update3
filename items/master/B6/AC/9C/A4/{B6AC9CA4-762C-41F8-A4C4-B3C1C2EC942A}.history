@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{B6AC9CA4-762C-41F8-A4C4-B3C1C2EC942A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:32:49.0186545Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Configuration",
+    "itemPath": "/sitecore/content/Developing-in-Sitecore/Configuration",
+    "commandType": "Item",
+    "template": "Configuration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
