@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{54BD10E1-82F6-4EBD-9C2A-13F98508B631}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T21:26:24.6322192Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Launch Sitecore",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Launch Sitecore",
+    "commandType": "Item",
+    "template": "Chunk",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
