@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9B14A853-F008-4145-878A-DD5A2ED7EC36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:25.9242931Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Caption",
+    "itemPath": "/sitecore/templates/Global/Content Templates/Carousel Item/Carousel Item/Caption",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
