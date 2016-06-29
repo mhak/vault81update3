@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C9F9AAD5-9F3E-47C4-8CCD-40681657B39C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:26.3623182Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Quotation Details",
+    "itemPath": "/sitecore/templates/Global/Content Templates/Quotation/Quotation Details",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
