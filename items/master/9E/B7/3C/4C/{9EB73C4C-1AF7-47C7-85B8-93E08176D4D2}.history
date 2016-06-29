@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{9EB73C4C-1AF7-47C7-85B8-93E08176D4D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:57:06.9450611Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Datasource Sublayout",
+    "itemPath": "/sitecore/layout/Sublayouts/Sample Datasource Sublayout",
+    "commandType": "Item",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
