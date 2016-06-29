@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{C472A7B9-5B37-4EC2-AADD-EAB8138F1D41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-29T21:26:24.7402254Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Launch Sitecoore",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Strips/Developer/Launch Sitecoore",
+    "commandType": "Item",
+    "template": "Reference",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
