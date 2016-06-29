@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{EB59D87B-6930-4342-B3FA-959D10B11822}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-06-29T21:26:25.0672441Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/content/Applications/WebEdit/Custom Experience Buttons/Tags",
+    "commandType": "Item",
+    "template": "Field Editor Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.0.144"
+  }
+]
